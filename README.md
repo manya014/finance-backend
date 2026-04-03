@@ -1,8 +1,3 @@
-README
-Create a README.md file in your root folder:
-powershellNew-Item README.md -type file
-Then open it and paste this:
-markdown# Finance Data Processing and Access Control Backend
 
 A professional REST API backend for a finance dashboard system built with Node.js, Express, and PostgreSQL. The system supports financial record management, role-based access control, and dashboard analytics.
 
