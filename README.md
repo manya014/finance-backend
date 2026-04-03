@@ -1,4 +1,4 @@
-#💰 Finance Backend API
+# 💰 Finance Backend API
 
 A professional REST API backend for a finance dashboard system built with Node.js, Express, and PostgreSQL. The system supports financial record management, role-based access control, and dashboard analytics.
 
@@ -382,5 +382,5 @@ Body:
 npm run dev    # Run in development mode with nodemon
 npm start      # Run in production mode
 ```
-##Author
+## Author
 Manya Rawat
