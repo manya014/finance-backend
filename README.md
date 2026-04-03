@@ -1,6 +1,9 @@
+#💰 Finance Backend API
 
 A professional REST API backend for a finance dashboard system built with Node.js, Express, and PostgreSQL. The system supports financial record management, role-based access control, and dashboard analytics.
 
+🚀 Live API
+👉 https://finance-backend-production-b864.up.railway.app
 ---
 
 ## Tech Stack
@@ -373,19 +376,11 @@ Body:
 
 ---
 
-## Optional Enhancements Implemented
-
-- ✅ JWT Authentication
-- ✅ Pagination
-- ✅ Search support
-- ✅ Soft delete
-- ✅ Rate limiting
-- ✅ API documentation
-
----
 
 ## Scripts
 ```bash
 npm run dev    # Run in development mode with nodemon
 npm start      # Run in production mode
 ```
+##Author
+Manya Rawat
