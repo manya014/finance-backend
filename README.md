@@ -6,6 +6,24 @@ A professional REST API backend for a finance dashboard system built with Node.j
 👉 https://finance-backend-production-b864.up.railway.app
 ---
 
+## 📌 Table of Contents
+
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Role System](#role-system)
+- [API Documentation](#api-documentation)
+- [Auth Routes](#auth-routes)
+- [Financial Records Routes](#financial-records-routes)
+- [Dashboard Routes](#dashboard-routes)
+- [User Management Routes](#user-management-routes)
+- [Access Control Matrix](#access-control-matrix)
+- [Status Codes](#status-codes)
+- [Rate Limiting](#rate-limiting)
+- [Assumptions and Design Decisions](#assumptions-and-design-decisions)
+- [Scripts](#scripts)
+- [Author](#author)
+  
 ## Tech Stack
 
 | Technology | Purpose |
